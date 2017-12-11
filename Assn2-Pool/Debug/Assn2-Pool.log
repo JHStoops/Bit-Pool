@@ -1,0 +1,16 @@
+﻿  main.cpp
+d:\programs\dropboxfiles\dropbox\programming\c++\cs3370 c++ software development\assn2-pool\assn2-pool\pool.h(2): warning C4005: '_SECURE_SCL_DEPRECATE': macro redefinition
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\yvals.h(296): note: see previous definition of '_SECURE_SCL_DEPRECATE'
+  Pool.cpp
+d:\programs\dropboxfiles\dropbox\programming\c++\cs3370 c++ software development\assn2-pool\assn2-pool\pool.cpp(6): warning C4002: too many actual parameters for macro 'assert'
+d:\programs\dropboxfiles\dropbox\programming\c++\cs3370 c++ software development\assn2-pool\assn2-pool\pool.cpp(8): warning C4002: too many actual parameters for macro 'assert'
+d:\programs\dropboxfiles\dropbox\programming\c++\cs3370 c++ software development\assn2-pool\assn2-pool\pool.cpp(17): warning C4018: '<': signed/unsigned mismatch
+d:\programs\dropboxfiles\dropbox\programming\c++\cs3370 c++ software development\assn2-pool\assn2-pool\pool.cpp(26): warning C4002: too many actual parameters for macro 'assert'
+d:\programs\dropboxfiles\dropbox\programming\c++\cs3370 c++ software development\assn2-pool\assn2-pool\pool.cpp(35): warning C4002: too many actual parameters for macro 'assert'
+d:\programs\dropboxfiles\dropbox\programming\c++\cs3370 c++ software development\assn2-pool\assn2-pool\pool.cpp(60): warning C4018: '<': signed/unsigned mismatch
+  MyObject.cpp
+d:\programs\dropboxfiles\dropbox\programming\c++\cs3370 c++ software development\assn2-pool\assn2-pool\pool.h(2): warning C4005: '_SECURE_SCL_DEPRECATE': macro redefinition
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\yvals.h(296): note: see previous definition of '_SECURE_SCL_DEPRECATE'
+  Generating Code...
+  Assn2-Pool.vcxproj -> D:\Programs\DropBoxFiles\Dropbox\Programming\C++\CS3370 C++ Software Development\Assn2-Pool\Debug\Assn2-Pool.exe
+  Assn2-Pool.vcxproj -> D:\Programs\DropBoxFiles\Dropbox\Programming\C++\CS3370 C++ Software Development\Assn2-Pool\Debug\Assn2-Pool.pdb (Partial PDB)
